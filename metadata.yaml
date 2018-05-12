@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25003
 description: After her father dies, a young girl travels with her slave to England,
   where everyone finds the girls treatment of the slave absolutely appalling.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21975#The-Barbadoes-GirlA-Tale-for-Young-People
 gutenberg_issued: '2007-06-30'
 gutenberg_type: Text
 identifiers:
